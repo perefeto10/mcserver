@@ -2444,3 +2444,13 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [25Jan2025 20:15:27.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jan2025 20:20:27.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jan2025 20:20:27.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 20:25:27.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 20:25:27.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 20:25:31.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-532, y=60, z=1361} BlockPos{x=-533, y=60, z=1361}
+[25Jan2025 20:25:32.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-532, y=61, z=1360} BlockPos{x=-532, y=59, z=1360}
+[25Jan2025 20:25:35.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=61, z=1357} BlockPos{x=-534, y=62, z=1357}
+[25Jan2025 20:25:35.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=61, z=1357} BlockPos{x=-534, y=62, z=1357}
+[25Jan2025 20:25:36.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-533, y=60, z=1353} BlockPos{x=-534, y=60, z=1353}
+[25Jan2025 20:25:38.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=59, z=1353} BlockPos{x=-532, y=59, z=1353}
+[25Jan2025 20:30:27.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 20:30:27.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

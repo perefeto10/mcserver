@@ -6525,6 +6525,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2025-01-21 00:48:19 +0000",
+      "minecraft:turtle": "2025-01-25 20:29:01 +0000",
       "minecraft:axolotl": "2025-01-10 18:51:41 +0000"
     },
     "done": false
