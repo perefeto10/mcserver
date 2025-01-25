@@ -157,3 +157,24 @@
 [25Jan2025 21:29:03.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [25Jan2025 21:29:04.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [25Jan2025 21:29:04.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[25Jan2025 21:40:29.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:42659] logged in with entity id 34398 at (-94.96751644191954, -3.8289707500962242, -192.68827661815897)
+[25Jan2025 21:40:29.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[25Jan2025 21:40:29.675] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[25Jan2025 21:40:32.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[25Jan2025 21:40:34.235] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[25Jan2025 21:40:34.237] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[25Jan2025 21:40:52.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[25Jan2025 21:40:53.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5587ms or 111 ticks behind
+[25Jan2025 21:40:53.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[25Jan2025 21:40:53.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[25Jan2025 21:41:10.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
+[25Jan2025 21:41:30.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[25Jan2025 21:41:33.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[25Jan2025 21:41:36.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to Irregular24]
+[25Jan2025 21:41:51.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> kbro
+[25Jan2025 21:41:57.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> voy hacer mi granja de cabeza ya tengo todo solo espero que sea el bioma correcto por que es un webo de construccionxd
+[25Jan2025 21:42:09.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ahh esa wbda
+[25Jan2025 21:42:14.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> una pereza hacerlo
+[25Jan2025 21:43:00.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -87.500000, 24.500000, -185.500000]
+[25Jan2025 21:43:17.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[25Jan2025 21:46:13.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
