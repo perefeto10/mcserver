@@ -2465,3 +2465,30 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [25Jan2025 20:50:27.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jan2025 20:50:27.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jan2025 20:54:52.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved wrongly!
+[25Jan2025 20:55:27.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 20:55:27.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 21:00:27.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 21:00:27.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 21:00:54.265] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[25Jan2025 21:00:54.265] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[25Jan2025 21:00:54.265] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[25Jan2025 21:00:54.265] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[25Jan2025 21:00:54.265] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[25Jan2025 21:00:54.266] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[25Jan2025 21:00:54.266] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[25Jan2025 21:00:54.266] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[25Jan2025 21:00:54.266] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[25Jan2025 21:00:54.267] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[25Jan2025 21:00:54.267] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[25Jan2025 21:00:54.278] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[25Jan2025 21:00:54.279] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@17229821
+[25Jan2025 21:00:54.279] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[25Jan2025 21:00:54.293] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[25Jan2025 21:00:54.294] [Netty Epoll Server IO #3/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[25Jan2025 21:02:37.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[25Jan2025 21:05:29.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 21:05:29.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 21:10:29.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 21:10:29.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 21:15:29.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 21:15:29.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
