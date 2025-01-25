@@ -213,3 +213,32 @@
 [25Jan2025 06:33:38.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [25Jan2025 06:34:00.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7191ms or 143 ticks behind
 [25Jan2025 06:39:37.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1075, y=69, z=1450} BlockPos{x=-1071, y=69, z=1454}
+[25Jan2025 07:18:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> server of
+[25Jan2025 07:18:53.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> no
+[25Jan2025 07:19:04.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> prendelo
+[25Jan2025 07:19:16.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> me va a dar pereza
+[25Jan2025 07:19:32.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> duerme mrd
+[25Jan2025 07:19:34.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> visioso
+[25Jan2025 07:19:45.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[25Jan2025 07:19:52.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to Irregular24]
+[25Jan2025 07:19:53.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> buenas noches zzzzzzzzzzzzzz
+[25Jan2025 07:19:58.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ?
+[25Jan2025 07:20:13.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> y tu granja de slime?
+[25Jan2025 07:20:22.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> por algun lado :v
+[25Jan2025 07:20:28.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya server of
+[25Jan2025 07:20:30.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[25Jan2025 07:20:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[25Jan2025 07:20:30.529] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[25Jan2025 07:20:55.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Jan2025 07:20:55.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jan2025 07:20:56.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jan2025 07:20:56.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[25Jan2025 07:20:56.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[25Jan2025 07:20:56.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jan2025 07:20:56.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jan2025 07:20:56.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jan2025 07:20:56.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jan2025 07:20:56.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jan2025 07:20:56.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jan2025 07:20:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jan2025 07:20:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
