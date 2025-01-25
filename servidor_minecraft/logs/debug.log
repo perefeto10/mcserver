@@ -2492,3 +2492,11 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [25Jan2025 21:10:29.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jan2025 21:15:29.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jan2025 21:15:29.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 21:20:29.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 21:20:29.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 21:25:27.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[25Jan2025 21:25:27.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[25Jan2025 21:25:27.373] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Irregular24
+[25Jan2025 21:25:27.379] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[25Jan2025 21:25:29.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 21:25:29.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
