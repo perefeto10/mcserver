@@ -141,3 +141,16 @@
 [26Jan2025 19:50:14.487] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [26Jan2025 19:50:14.511] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'fun-ld.gl.at.ply.gg'
 [26Jan2025 19:50:14.513] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2861
+[26Jan2025 19:58:29.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:39543] logged in with entity id 419 at (687.9865382711699, 210.0, -575.8139925713347)
+[26Jan2025 19:58:29.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[26Jan2025 19:58:30.010] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[26Jan2025 19:58:30.148] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[26Jan2025 19:58:30.182] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[26Jan2025 19:58:33.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
+[26Jan2025 19:58:33.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[26Jan2025 19:58:34.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[26Jan2025 19:58:34.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[26Jan2025 19:58:52.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4042ms or 80 ticks behind
+[26Jan2025 19:59:13.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -1591.815499362896,-127.4375,1922.2622747211565
+[26Jan2025 19:59:13.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4112ms or 82 ticks behind
+[26Jan2025 19:59:36.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8060ms or 161 ticks behind
