@@ -168,3 +168,6 @@
 [26Jan2025 06:00:47.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=693, y=219, z=-577} BlockPos{x=692, y=219, z=-578}
 [26Jan2025 06:00:47.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=693, y=219, z=-577} BlockPos{x=692, y=219, z=-578}
 [26Jan2025 06:00:47.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=693, y=219, z=-577} BlockPos{x=692, y=219, z=-578}
+[26Jan2025 06:11:13.451] [Worker-Main-49/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[26Jan2025 06:11:21.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has completed the challenge [Subspace Bubble]
+[26Jan2025 06:11:29.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16716ms or 334 ticks behind
