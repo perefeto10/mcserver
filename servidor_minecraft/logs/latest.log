@@ -234,3 +234,5 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [26Jan2025 17:00:19.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -889.500000, 77.500000, 1408.500000]
 [26Jan2025 17:00:32.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5747ms or 114 ticks behind
 [26Jan2025 17:05:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to 680.500000, 126.500000, -574.500000]
+[26Jan2025 17:46:13.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -1312.199999988079,-4.4375,1901.264861144693
+[26Jan2025 17:46:13.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3920ms or 78 ticks behind
