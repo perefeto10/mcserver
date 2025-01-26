@@ -2615,3 +2615,11 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [26Jan2025 07:23:23.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Jan2025 07:28:23.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jan2025 07:28:23.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 07:33:23.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 07:33:23.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 07:38:23.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 07:38:23.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 07:39:02.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[26Jan2025 07:40:05.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[26Jan2025 07:43:23.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 07:43:23.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
