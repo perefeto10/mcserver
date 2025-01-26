@@ -1,208 +1,184 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1737857857135 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1737858142601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857860217 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858145714 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857863368 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858148850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857866500 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858151951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857869996 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858155056 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857873110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858158187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857876249 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858161362 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857879378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858164500 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857882459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858167640 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857885541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858170747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857888654 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858174491 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857891768 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858177986 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857894891 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858181104 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857897999 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858184187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857901117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858187310 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857904640 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858190581 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857907762 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858193685 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857910901 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858196804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857913989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858200009 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857917103 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858203114 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857920439 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858206224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857923545 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858209334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857926656 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858212451 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857929765 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858215597 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857932870 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858218725 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857935986 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858222062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857939104 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858225875 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857942325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858228974 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857945441 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858232064 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857948559 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858235409 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857951669 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857955262 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857958400 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857961494 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-process-bachelor.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-fun-ld.gl.at.ply.gg:2861 => 127.0.0.1:2861 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737857964605 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737858238534 tunnel running, 2 tunnels registered
 
 
 TUNNELS
