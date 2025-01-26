@@ -164,3 +164,7 @@
 [26Jan2025 05:37:50.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
 [26Jan2025 05:42:13.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
 [26Jan2025 05:42:23.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[26Jan2025 06:00:47.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=693, y=219, z=-577} BlockPos{x=692, y=219, z=-578}
+[26Jan2025 06:00:47.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=693, y=219, z=-577} BlockPos{x=692, y=219, z=-578}
+[26Jan2025 06:00:47.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=693, y=219, z=-577} BlockPos{x=692, y=219, z=-578}
+[26Jan2025 06:00:47.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=693, y=219, z=-577} BlockPos{x=692, y=219, z=-578}
