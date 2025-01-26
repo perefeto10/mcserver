@@ -8212,9 +8212,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
-      "has_bamboo_slab": "2025-01-26 06:39:50 +0000"
+      "has_glass": "2025-01-26 05:49:43 +0000"
     },
     "done": true
   },
@@ -8224,9 +8224,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
+  "minecraft:recipes/decorations/bamboo_mosaic": {
     "criteria": {
-      "has_glass": "2025-01-26 05:49:43 +0000"
+      "has_bamboo_slab": "2025-01-26 06:39:50 +0000"
     },
     "done": true
   },
