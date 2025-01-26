@@ -245,3 +245,5 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [26Jan2025 06:41:13.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
 [26Jan2025 06:41:57.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
 [26Jan2025 06:42:13.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[26Jan2025 06:50:18.977] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[26Jan2025 06:51:13.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: The difficulty has been set to Peaceful]
