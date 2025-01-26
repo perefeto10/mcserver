@@ -250,3 +250,6 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [26Jan2025 07:03:50.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: The difficulty has been set to Hard]
 [26Jan2025 07:39:02.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
 [26Jan2025 07:40:05.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[26Jan2025 07:44:26.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[26Jan2025 07:50:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[26Jan2025 07:53:16.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
