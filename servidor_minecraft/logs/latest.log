@@ -156,3 +156,4 @@
 [26Jan2025 05:03:43.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11218ms or 224 ticks behind
 [26Jan2025 05:03:46.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
 [26Jan2025 05:04:55.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[26Jan2025 05:18:04.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 211.807769410216,96.5625,7.198352121494736
