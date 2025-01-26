@@ -154,3 +154,7 @@
 [26Jan2025 19:59:13.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -1591.815499362896,-127.4375,1922.2622747211565
 [26Jan2025 19:59:13.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4112ms or 82 ticks behind
 [26Jan2025 19:59:36.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8060ms or 161 ticks behind
+[26Jan2025 20:12:26.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[26Jan2025 20:14:08.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3064ms or 61 ticks behind
+[26Jan2025 20:15:18.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [The End... Again...]
+[26Jan2025 20:16:42.717] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved

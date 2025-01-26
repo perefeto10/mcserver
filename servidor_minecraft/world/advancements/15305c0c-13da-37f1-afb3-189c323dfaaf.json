@@ -8236,5 +8236,11 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-01-26 20:15:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
