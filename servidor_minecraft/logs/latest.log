@@ -147,3 +147,6 @@
 [26Jan2025 19:06:01.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
 [26Jan2025 19:06:02.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6875ms or 137 ticks behind
 [26Jan2025 19:06:30.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13075ms or 261 ticks behind
+[26Jan2025 19:21:56.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[26Jan2025 19:21:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[26Jan2025 19:21:56.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
