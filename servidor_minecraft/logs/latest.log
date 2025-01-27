@@ -423,3 +423,7 @@
 [27Jan2025 23:05:38.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
 [27Jan2025 23:06:41.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Gave 5120 [Golden Carrot] to Seta33]
 [27Jan2025 23:07:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[27Jan2025 23:15:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Gave 1 [Enchanted Book] to Seta33]
+[27Jan2025 23:18:31.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[27Jan2025 23:18:31.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[27Jan2025 23:18:31.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
