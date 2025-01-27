@@ -223,3 +223,4 @@
 [27Jan2025 19:04:40.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [27Jan2025 19:05:10.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -1.146173449354663,0.10858527237986237,9.940695582160032
 [27Jan2025 19:09:35.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set the time to 1000]
+[27Jan2025 19:24:01.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> -96 -3.5 -192
