@@ -406,3 +406,20 @@
 [27Jan2025 22:54:28.387] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [27Jan2025 22:54:28.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [27Jan2025 22:57:31.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[27Jan2025 23:02:56.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[27Jan2025 23:02:56.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[27Jan2025 23:02:56.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[27Jan2025 23:03:05.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[27Jan2025 23:03:05.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[27Jan2025 23:03:05.003] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[27Jan2025 23:04:27.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:42377] logged in with entity id 74514 at (-48.77097505030074, 68.5, -373.61665199578295)
+[27Jan2025 23:04:27.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[27Jan2025 23:04:27.771] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[27Jan2025 23:04:29.434] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[27Jan2025 23:04:29.436] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[27Jan2025 23:04:42.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[27Jan2025 23:04:43.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[27Jan2025 23:04:43.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[27Jan2025 23:05:38.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[27Jan2025 23:06:41.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Gave 5120 [Golden Carrot] to Seta33]
+[27Jan2025 23:07:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
