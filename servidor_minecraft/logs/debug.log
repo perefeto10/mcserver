@@ -2562,3 +2562,18 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [27Jan2025 19:33:19.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
 [27Jan2025 19:35:10.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
 [27Jan2025 19:36:06.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 2848 block(s)]
+[27Jan2025 19:37:30.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 19:37:30.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 19:38:05.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 2784 block(s)]
+[27Jan2025 19:38:58.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:39:22.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:39:46.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:40:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:40:27.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:41:36.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:41:52.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:42:17.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:42:30.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 19:42:30.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 19:42:31.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:42:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
