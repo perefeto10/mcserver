@@ -2577,3 +2577,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [27Jan2025 19:42:30.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jan2025 19:42:31.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
 [27Jan2025 19:42:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Successfully filled 256 block(s)]
+[27Jan2025 19:47:30.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 19:47:30.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 19:52:30.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 19:52:30.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
