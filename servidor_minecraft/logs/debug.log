@@ -2644,3 +2644,15 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [27Jan2025 20:33:40.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
 [27Jan2025 20:34:48.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [27Jan2025 20:36:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[27Jan2025 20:37:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[27Jan2025 20:37:23.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[27Jan2025 20:37:30.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 20:37:30.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 20:37:35.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[27Jan2025 20:38:52.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[27Jan2025 20:39:12.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[27Jan2025 20:39:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[27Jan2025 20:39:52.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[27Jan2025 20:39:59.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[27Jan2025 20:42:30.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 20:42:30.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
