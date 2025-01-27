@@ -304,3 +304,20 @@
 [27Jan2025 21:12:27.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [27Jan2025 21:12:28.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [27Jan2025 21:12:28.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[27Jan2025 21:19:16.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[27Jan2025 21:19:16.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[27Jan2025 21:19:16.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[27Jan2025 21:19:32.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[27Jan2025 21:19:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[27Jan2025 21:19:32.900] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[27Jan2025 21:21:04.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:36923] logged in with entity id 55704 at (-77.79404899127248, 62.0, -187.68245623976114)
+[27Jan2025 21:21:04.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[27Jan2025 21:21:05.158] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[27Jan2025 21:21:06.563] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[27Jan2025 21:21:06.567] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[27Jan2025 21:21:16.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[27Jan2025 21:21:17.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[27Jan2025 21:21:17.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[27Jan2025 21:28:55.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -7.397568818315136,3.0,6.540534924710187
+[27Jan2025 21:36:51.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[27Jan2025 21:36:58.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
